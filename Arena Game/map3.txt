@@ -1,0 +1,15 @@
+20 14
+GGGGGGGGGGGGGGGGGGGG
+G        G         G
+GGGGG    G         G
+G        G    G    G
+G             G    G
+G   GGGGG     GGGGGG
+G     G       G    G
+G     G       G    G
+G     G            G
+G     GGGGGGG      G
+G        G         G
+G                  G
+G        G         G
+GGGGGGGGGGGGGGGGGGGG
